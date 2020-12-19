@@ -1,44 +1,45 @@
 const students = [
   {
-    name: 'ana',
+    name: "ana",
     score: 7.4,
-    hasPassed: true
+    hasPassed: true,
   },
   {
-    name: 'ivan',
+    name: "ivan",
     score: 4.5,
-    hasPassed: false
+    hasPassed: false,
   },
   {
-    name: 'milo',
+    name: "milo",
     score: 9.3,
-    hasPassed: true
+    hasPassed: true,
   },
   {
-    name: 'igor',
+    name: "igor",
     score: 7.0,
-    hasPassed: true
+    hasPassed: true,
   },
   {
-    name: 'george',
+    name: "george",
     score: 8.9,
-    hasPassed: true
+    hasPassed: true,
   },
   {
-    name: 'jess',
+    name: "jess",
     score: 10.0,
-    hasPassed: true
+    hasPassed: true,
   },
   {
-    name: 'kevin',
+    name: "kevin",
     score: 5.8,
-    hasPassed: false
+    hasPassed: false,
   },
   {
-    name: 'beth',
+    name: "beth",
     score: 7.1,
-    hasPassed: true
-  }
+    hasPassed: true,
+  },
 ];
 
 // export students here:
+module.exports = students;
